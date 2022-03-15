@@ -19,8 +19,8 @@ ADD=$(($X+$Y))
 echo add=$ADD
 
 ## Array
-hk = (10 20 30 hari kishan)
-echo first value of Array = ${hk[0]}
-echo fourth value of Array = ${hk[4]}
-echo all values of Array = ${hk[*]}
+hk=(10 20 30 hari kishan)
+echo first value of Array =${hk[0]}
+echo fourth value of Array =${hk[4]}
+echo all values of Array =${hk[*]}
 
