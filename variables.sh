@@ -3,5 +3,5 @@
 a=50
 b=vaishu
 
-echo $a
+echo ${a}times
 echo ${b}
