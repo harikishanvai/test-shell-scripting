@@ -12,3 +12,9 @@ echo todays date is $date
 date=$(date +%F)
 echo today date is $date
 
+X=100
+Y=50
+
+ADD=$(($X+$Y))
+echo add=$ADD
+
