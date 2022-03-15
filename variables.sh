@@ -24,4 +24,4 @@ echo first value of Array =${hk[0]}
 echo fourth value of Array =${hk[4]}
 echo all values of Array =${hk[*]}
 
-echo Traning =${TRAINING}
+echo Training =${TRAINING}
