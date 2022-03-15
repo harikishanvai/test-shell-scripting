@@ -9,3 +9,6 @@ date=2022-03-15
 
 echo todays date is $date
 
+date = $(date +%F)
+echo today date is $date
+
