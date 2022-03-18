@@ -18,4 +18,4 @@ Print_Message Devops
 echo "First Arugument is Main Script = $1"
 echo "Value of b = $b"
 STAT
-echo exit ststus of function STAT =$?
+echo exit status of function STAT =$?
