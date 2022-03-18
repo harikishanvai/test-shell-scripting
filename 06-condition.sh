@@ -11,3 +11,4 @@ fi
 
 if [ -z "$b" ]; then
   echo b variable is empty
+fi
