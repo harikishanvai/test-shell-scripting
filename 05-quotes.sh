@@ -10,4 +10,4 @@ TRANING=Devops
 
 echo 'Traning = ${TRANING}'
 
-echo "Traning = ${TRANING}"
+echo "Traning = ${TRANINING}"
