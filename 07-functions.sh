@@ -15,7 +15,7 @@ STAT() {
 a=10
 Print_Message Devops
 
-echo "First Arugument is Mian Script = $1"
+echo "First Arugument is Main Script = $1"
 echo "Value of b = $b"
 STAT
 echo exit ststus of function STAT =$?
