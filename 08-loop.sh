@@ -6,7 +6,7 @@ while [ $i -gt 8 ]; do
   i=$(($i-2))
 done
 
-for Colour in red blue green white yellow; do
+for Colour in red blue green white yellow ; do
   echo Colour Name= $Colour
 done
 
